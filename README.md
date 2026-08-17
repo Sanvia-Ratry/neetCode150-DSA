@@ -1,6 +1,6 @@
 # NeetCode Solutions — @Sanvia-Ratry
 
-> Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions`
+> Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetCode150-DSA`
 
 ---
 
